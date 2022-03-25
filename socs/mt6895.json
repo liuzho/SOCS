@@ -1,1 +1,1 @@
-{"VENDOR":"Mediatek","NAME":"Dimensity 1200+","FAB":"6 nm N6","CPU":"1× Cortex-A78@3.2GHz\n3 × Cortex-A78@2.6GHz\n4 × Cortex-A55@2.0GHz","MEMORY":"4x16-bit LPDDR4x 2133 MHz","BANDWIDTH":"34.1 GB/s","CHANNELS":""}
+{"VENDOR":"Mediatek","NAME":"Dimensity 8100","FAB":"5 nm N5 (TSMC)","CPU":"4 x Cortex-A78@2.85 GHz\n4 x Cortex-A55@2.0GHz","MEMORY":"4 x 16-bit LPDDR5","BANDWIDTH":"34.1 GB/s","CHANNELS":"Quad-Channel"}
