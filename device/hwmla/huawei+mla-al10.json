@@ -1,0 +1,2 @@
+{"VENDOR":"Qualcomm®","NAME":"Snapdragon™ 625","FAB":"14 nm LPP (Samsung)","CPU":"8 x Cortex-A53@2.0GHz","MEMORY":"LPDDR3 933 MHz","BANDWIDTH":"","CHANNELS":""}
+../..//socs/sdmshrike.json:{"VENDOR":"Qualcomm®","NAME":"Snapdragon™ 625","FAB":"14 nm","CPU":"8 x Cortex-A53","MEMORY":"LPDDR3 933 MHz","BANDWIDTH":"7.5 GB\/s","CHANNELS":"single channel"}
