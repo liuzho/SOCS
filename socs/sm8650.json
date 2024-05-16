@@ -1,1 +1,1 @@
-{"VENDOR":"Qualcomm®","NAME":"Snapdragon™ 8 Gen 3","FAB":"4nm N4P(TSMC)","CPU":"1 x Kryo Prime (X4)@3.3GHz\n5 x Kryo Gold (A720)@3.2GHz\n2 x Kryo Silver Gold (A520)@2.3GHz","MEMORY":"LPDDR5X 4800MHz","BANDWIDTH":"","CHANNELS":"Quad-channel 16-bit (64-bit)"}
+{"VENDOR":"Qualcomm®","NAME":"Snapdragon™ 8 Gen 3","FAB":"4nm N4P(TSMC)","CPU":"1 x Kryo Prime (X4)@3.3GHz\n3 x Kryo Gold (A720)@3.15GHz\n2 x Kryo Gold (A720)@2.96GHz\n2 x Kryo Silver Gold (A520)@2.27GHz","MEMORY":"LPDDR5X 4800MHz","BANDWIDTH":"","CHANNELS":"Quad-channel 16-bit (64-bit)"}
