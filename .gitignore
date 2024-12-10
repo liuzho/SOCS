@@ -3,3 +3,4 @@ out/
 *.iml
 socs.json
 src/
+.DS_Store
